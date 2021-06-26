@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/utkarshsahu101/task-schedular-frontend/static/css/main.257d4499.chunk.css",
+    "main.js": "/utkarshsahu101/task-schedular-frontend/static/js/main.7dd5d333.chunk.js",
+    "main.js.map": "/utkarshsahu101/task-schedular-frontend/static/js/main.7dd5d333.chunk.js.map",
+    "runtime-main.js": "/utkarshsahu101/task-schedular-frontend/static/js/runtime-main.00cc5f89.js",
+    "runtime-main.js.map": "/utkarshsahu101/task-schedular-frontend/static/js/runtime-main.00cc5f89.js.map",
+    "static/js/2.06bd23b8.chunk.js": "/utkarshsahu101/task-schedular-frontend/static/js/2.06bd23b8.chunk.js",
+    "static/js/2.06bd23b8.chunk.js.map": "/utkarshsahu101/task-schedular-frontend/static/js/2.06bd23b8.chunk.js.map",
+    "static/js/3.a45755d0.chunk.js": "/utkarshsahu101/task-schedular-frontend/static/js/3.a45755d0.chunk.js",
+    "static/js/3.a45755d0.chunk.js.map": "/utkarshsahu101/task-schedular-frontend/static/js/3.a45755d0.chunk.js.map",
+    "index.html": "/utkarshsahu101/task-schedular-frontend/index.html",
+    "static/css/main.257d4499.chunk.css.map": "/utkarshsahu101/task-schedular-frontend/static/css/main.257d4499.chunk.css.map",
+    "static/js/2.06bd23b8.chunk.js.LICENSE.txt": "/utkarshsahu101/task-schedular-frontend/static/js/2.06bd23b8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/utkarshsahu101/task-schedular-frontend/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00cc5f89.js",
+    "static/js/2.06bd23b8.chunk.js",
+    "static/css/main.257d4499.chunk.css",
+    "static/js/main.7dd5d333.chunk.js"
+  ]
+}
