@@ -4,7 +4,7 @@ class Header extends Component {
     render() {
         return (
             <div style={{backgroundColor: '#788ceb', color: '#fff', display: 'flex', justifyContent: 'center'}}>
-                <h1>Task Scheduler</h1>
+                <h1>Task Scheduler By Utkarsh</h1>
             </div>
         )
     }
